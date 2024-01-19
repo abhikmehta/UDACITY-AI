@@ -2,3 +2,15 @@ In this course, we use Python version 3 (or simply Python 3).
 If you'd like more details on previous versions of Python and how version 3 differs from previous versions,
 check out the History of Python on Wikipedia.
 https://en.wikipedia.org/wiki/History_of_Python
+
+
+
+
+
+As you learn Python throughout this course, there are a few things you should keep in mind.
+
+1`.Python is case sensitive.
+
+2.Spacing is important.
+
+3.Use error messages to help you learn.
