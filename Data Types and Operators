@@ -6,3 +6,18 @@ Built-In Functions, Type Conversion
 Whitespace and Style Guidelines
 Print Statements
 print () - built-in function that displays input values as text in the output
+
+
+Arithmetic Operators
+Arithmetic operators
+
++ Addition
+- Subtraction
+* Multiplication
+/ Division
+% Mod (the remainder after dividing)
+
+** Exponentiation (note that ^ does not do this operation, as you might have seen in other languages)
+
+// Divides and rounds down to the nearest integer
+The usual order of mathematical operations holds in Python, often referred to as PEMDAS: Parentheses, Exponents, Multiplication/Division, Addition/Subtraction.
